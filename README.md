@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @feldspar-terra
-- 👀 I’m interested in Automation, Forecasting, Project Management & Docker.
-- 🌱 I’m currently and always learning SQL, Python, Javascript, PHP and anything related to Data Science, Reporting, Data Viz and Databases.
+👋 @feldspar-terra reporting in
+💻 Automating the boring, forecasting the weird
+🧰 Building with Python, SQL, JS, Docker & a dash of PHP
+📈 Data is the map, curiosity is the compass
+⚡ Currently designing systems that help people see further, faster
 <!-- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... -->
 
